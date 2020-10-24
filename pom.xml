@@ -6,7 +6,7 @@
         <plugin>
             <groupId>org.openclover</groupId>
             <artifactId>clover-maven-plugin</artifactId>
-            <version>4.1</version>     
+            <version>1.3_01</version>     
         </plugin>
     </plugins>
 </build>
