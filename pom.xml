@@ -34,12 +34,12 @@
 	<distributionManagement>
         <snapshotRepository>
             <id>nexus</id>
-            <name>maven-snapshot</name>
+            <name>nexus</name>
             <url>http://nexus-jenkins.apps.awsopenshift.ne-innovation.com/repository/maven-snapshots/</url>
         </snapshotRepository>
         <repository>
             <id>nexus</id>
-            <name>maven-release</name>
+            <name>nexus</name>
             <url>http://nexus-jenkins.apps.awsopenshift.ne-innovation.com/repository/maven-releases/</url>
         </repository>
     </distributionManagement>
