@@ -33,12 +33,12 @@
 	</dependencies>
 	<distributionManagement>
         <snapshotRepository>
-            <id>nexus-snapshot</id>
+            <id>nexus</id>
             <name>maven-snapshot</name>
             <url>http://nexus-jenkins.apps.awsopenshift.ne-innovation.com/repository/maven-snapshots/</url>
         </snapshotRepository>
         <repository>
-            <id>nexus-snapshot</id>
+            <id>nexus</id>
             <name>maven-release</name>
             <url>http://nexus-jenkins.apps.awsopenshift.ne-innovation.com/repository/maven-releases/</url>
         </repository>
