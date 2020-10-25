@@ -35,12 +35,12 @@
         <snapshotRepository>
             <id>nexus-snapshot</id>
             <name>maven-snapshot</name>
-            <url>http://nexus-jenkins.apps.awsopenshift.ne-innovation.com/repo/repository/maven-snapshot</url>
+            <url>http://nexus-jenkins.apps.awsopenshift.ne-innovation.com/repository/maven-snapshot</url>
         </snapshotRepository>
         <repository>
             <id>nexus-snapshot</id>
             <name>maven-release</name>
-            <url>http://nexus-jenkins.apps.awsopenshift.ne-innovation.com/repo/repository/maven-release</url>
+            <url>http://nexus-jenkins.apps.awsopenshift.ne-innovation.com/repository/maven-release</url>
         </repository>
     </distributionManagement>
 		
