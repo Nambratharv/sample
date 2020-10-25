@@ -36,7 +36,7 @@
         <repository>
             <id>nexus</id>
             <name>nexus</name>
-            <url>http://nexus-jenkins.apps.awsopenshift.ne-innovation.com/repository/maven-central/</url>
+            <url>http://nexus-jenkins.apps.awsopenshift.ne-innovation.com/repository/maven-releases/</url>
         </repository>
     </distributionManagement>
 		
