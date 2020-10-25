@@ -31,5 +31,17 @@
 		</dependency>
 		
 	</dependencies>
+	<distributionManagement>
+        <snapshotRepository>
+            <id>nexus-snapshot</id>
+            <name>maven-snapshot</name>
+            <url>http://nexus-jenkins.apps.awsopenshift.ne-innovation.com/</url>
+        </snapshotRepository>
+        <repository>
+            <id>nexus-snapshot</id>
+            <name>maven-release</name>
+            <url>http://nexus-jenkins.apps.awsopenshift.ne-innovation.com/</url>
+        </repository>
+    </distributionManagement>
 		
 </project>
